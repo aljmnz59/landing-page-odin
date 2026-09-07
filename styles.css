@@ -137,3 +137,42 @@ a {
     text-align: end;
     font-weight: bold;
 }
+
+.call-section {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 90px 150px;
+}
+
+.container {
+    display: flex;
+    background-color: #3882F6;
+    width: 700px;
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 6px;
+}
+
+.main-text p {
+    color: white;
+    font-weight: 500;
+    margin: 0;
+}
+
+.main-text sub {
+    color: #d1dced;
+}
+
+.sign-up button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    padding: 4px 16px;
+    font-weight: 700;
+}
+
+
+
