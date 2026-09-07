@@ -1,27 +1,16 @@
 body {
-<<<<<<< HEAD
-=======
-    margin: 0;
->>>>>>> 1b8b2f430e30245cdd45e78d12889f3275dded19
     display: flex;
     flex-direction: column;
     font-family: Roboto;
     background-color: #1F2937;
-<<<<<<< HEAD
     padding: 0 50px;
-=======
-   
->>>>>>> 1b8b2f430e30245cdd45e78d12889f3275dded19
 }
 
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-<<<<<<< HEAD
     margin-bottom: 100px;
-=======
->>>>>>> 1b8b2f430e30245cdd45e78d12889f3275dded19
 }
 
 .header p {
@@ -36,7 +25,6 @@ ul {
 }
 
 a {
-<<<<<<< HEAD
     font-size: 18px;
     color: #E5E7EB;
     text-decoration: none;
@@ -89,8 +77,4 @@ a {
     color: white;
     background-color: #6d747d;
     border: none;
-=======
-    color: gray;
-    text-decoration: none;
->>>>>>> 1b8b2f430e30245cdd45e78d12889f3275dded19
 }
