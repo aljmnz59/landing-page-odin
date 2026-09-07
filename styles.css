@@ -174,5 +174,12 @@ a {
     font-weight: 700;
 }
 
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    padding: 20px;
+    color: #dedfe1;
+}
+
 
 
